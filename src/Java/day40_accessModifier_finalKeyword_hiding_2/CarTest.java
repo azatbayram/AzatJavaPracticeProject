@@ -1,6 +1,6 @@
 package Java.day40_accessModifier_finalKeyword_hiding_2;
 
-import day40_accessModifier_finalKeyword_hiding.Car;
+import Java.day40_accessModifier_finalKeyword_hiding.Car;
 
 public class CarTest {
 
