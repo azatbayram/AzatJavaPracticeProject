@@ -24,6 +24,8 @@ public class LinkedListExample {
 
         System.out.println(((LinkedList<Integer>) list).getFirst());
         System.out.println(((LinkedList<Integer>) list).getLast());
+
+        System.out.println(list.toString());
     }
 
 }

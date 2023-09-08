@@ -24,7 +24,10 @@ public class ArrayVSArrayList {
 		
 		System.out.println(numsArray[0]);
 		System.out.println(list1.get(0));
-		
+
+		System.out.println(list1.toString());
+
+
 	}
 
 }
